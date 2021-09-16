@@ -27,7 +27,6 @@ ajuda a agrupar elementos para ”estilizar” e que a maioria também possui um
 aparência do elemento usando CSS embutido.
 Conforme discutido nas lições , uma das desvantagens do uso de CSS embutido é que ele pode levar a
 grandes quantidades de código repetitivo, o que pode ser difícil de manter e alterar. Como você ver neste
-1
 exemplo, há muitos lugares em que o estilo foi copiado e colado para criar elementos diferentes e, se algo
 mudasse, seria intensivo a alteração e manutenção manualmente.
 Nesta atividade, você deve modificar ou ”refatorar” o código HTML existente para que ele use um ficheiro
