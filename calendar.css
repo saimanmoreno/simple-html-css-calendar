@@ -1,0 +1,114 @@
+/*
+* ALUNO: SIMÃO JOSÉ VARELA MORENO
+* CODIGO: 110406
+* EMAIL: simao.moreno@student.unicv.edu.cv
+*/
+
+/* mudar a fonte da letra para todo o documento */
+body{
+  font-family: Helvetica;
+}
+
+/* estilos para a tabela */
+table{
+  table-layout: fixed;
+  width: 70%;
+}
+
+/* estilos para todas as listas */
+ul{
+  font-size:75%;
+  list-style:none;
+  padding-left:20px;
+  padding-right:5px;
+}
+
+
+/* estilos para todas as classes "month-header" */
+.month-header{
+  background-image:url(https://i.postimg.cc/1Xw67Pj5/Dog-Picture.jpg);
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:300px;
+  text-align:right;
+}
+
+/* estilos para todas as h1 de classe "month-header" */
+.month-header h1{
+  color:#FFF;
+  font-size:200%;
+  font-weight:700;
+  letter-spacing:3px;
+  padding-right:50px;
+  padding-bottom:150px;
+  text-shadow:-1px 0 black, 0 1px black, 1px 0 black, 0 -1px #000;
+  vertical-align:top;
+}
+
+/* estilos para todas os links de classe "month-header" */
+.copyright-notice{
+  color:#FFF;
+  font-size:50%;
+  padding-right:50px;
+  text-align:right;
+  text-decoration:none;
+  vertical-align:bottom;
+}
+
+/* estilos para todas as classes "weekday-header" */
+.weekday-header{
+  background-color:#999;
+  border-color:#ddd;
+  border-style:solid;
+  letter-spacing:1px;
+  line-height:25px;
+}
+
+/* estilos para todas as classes "week" */
+.week{
+  background-color:#eaeaea;
+  height:75px;
+  margin:0;
+  text-align:left;
+  vertical-align:top;
+}
+
+/* estilos para todas as classes "off-day" */
+.off-day{
+  background-color:#ddd;
+}
+
+
+/* estilos para classe "event" */
+.event{
+  border-radius:5px;
+  color:#10171C;
+  padding:5px;
+  margin:5px 0;
+}
+
+/* estilos para classe "dog-walk" */
+.dog-walk{
+  background-color:#A6F4FF;
+}
+
+/* estilos para classe "school" */
+.school{
+  background-color:#BA9CE8;
+}
+
+/* estilos para classe "appointment" */
+.appointment{
+  background-color:#FF7E6D;
+}
+
+/* estilos para classe "birthday" */
+.birthday{
+  background-color:#AFFFAD;
+}
+
+/* estilos para classe "holiday" */
+.holiday{
+  background-color:#E8E193;
+}
