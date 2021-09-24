@@ -42,3 +42,5 @@ HTML em calendar.html. Agrupe as regras com base nos atributos da ”classe” d
 tipos de elementos HTML, mantendo exatamente as mesmas regras de estilo. Quando terminar de colocar as
 regras CSS em calendar.css, exclua os atributos ”style” para todos os elementos HTML em calendar.html. Se
 fizer isso corretamente, a página HTML renderizada devera ser exatamente a mesma que a página original!
+
+  ![image](https://user-images.githubusercontent.com/49438293/134744573-d034724f-fa25-4aec-a268-66003de94ef0.png)
